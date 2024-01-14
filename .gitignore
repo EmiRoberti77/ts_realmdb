@@ -1,0 +1,5 @@
+node_modules
+*.realm
+*.realm.note
+*.realm.lock
+realm.realm.management
